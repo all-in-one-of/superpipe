@@ -1,3 +1,4 @@
+# [https://github.com/all-in-one-of/superpipe/tree/master/src](https://github.com/all-in-one-of/superpipe/tree/master/src)
 You can add the shelf to maya by adding the file "scripts/maya_scripts/shelf_Superpipe.mel" to your "MyDocuments/maya/20**/prefs/shelves/"" folder. That will add some preview of your shots in Superpipe.
 
 You can add the Superpipe add-on for Blender by going into "File > User Preferences > Add-ons" and click on "Install Add-on from file" and pick "scripts/blender_scripts/superpipe_addon.py".
